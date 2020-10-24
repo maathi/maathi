@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there sailor👋
+you have reached Mathi's coding land 😄 :
+
+[![GitHub followers](https://img.shields.io/github/followers/meh-duh?label=Follow%20at%20GitHub&style=for-the-badge)](https://github.com/meh-duh)
+[![Twitter Follow](https://img.shields.io/twitter/follow/erdaltsksn?label=Follow%20at%20Twitter&style=for-the-badge)](https://twitter.com/KitsutsukiX)
 
 <!--
 **meh-duh/meh-duh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Mathi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meh-duh&theme=cobalt&show_icons=true&&line_height=40)
+![Mathi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meh-duh&theme=cobalt&show_icons=true)
