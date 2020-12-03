@@ -1,7 +1,7 @@
 ### Hi there sailor👋
 you have reached Mathi's coding land 😄 :
 
-[![GitHub followers](https://img.shields.io/github/followers/meh-duh?label=Follow%20at%20GitHub&style=for-the-badge)](https://github.com/meh-duh)
+[![GitHub followers](https://img.shields.io/github/followers/maathi?label=Follow%20at%20GitHub&style=for-the-badge)](https://github.com/maathi)
 [![Twitter Follow](https://img.shields.io/twitter/follow/KitsutsukiX?label=Follow%20at%20Twitter&style=for-the-badge)](https://twitter.com/KitsutsukiX)
 
 <!--
@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Mathi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meh-duh&theme=cobalt&show_icons=true&&line_height=40)
-![Mathi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meh-duh&theme=cobalt&show_icons=true)
+![Mathi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maathi&theme=cobalt&show_icons=true&&line_height=40)
+![Mathi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maathi&theme=cobalt&show_icons=true)
